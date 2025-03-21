@@ -31,7 +31,8 @@ function App() {
 
     return (
         <Container className="mt-5">
-            <h2 className="text-center mb-4">Weather Dashboard</h2>
+           <h2 className="text-center mb-4">🌤️ Weather Dashboard</h2>
+<p className="text-center text-muted">Created by <strong>Zaid Khan</strong></p>
             
             <Form className="d-flex justify-content-center mb-3">
                 <Form.Control
